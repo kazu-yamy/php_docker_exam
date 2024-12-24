@@ -3,12 +3,13 @@
 ### 1.ディレクトリ構成
 
 ```
-.
-|-docker
-    |-mysql
-    |   |-Dockerfile
-    |-php
-    |   |-Dockerfile
+project/
+    |-data
+    |-docker
+    |   |-mysql
+    |   |   |-Dockerfile
+    |   |-php
+    |   |   |-Dockerfile
     |-phpmyadmin
     |-src
     |   |-index.php
