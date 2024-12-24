@@ -4,7 +4,8 @@
 
 ```
 project/
-    |-data
+    |-db
+    |   |-data
     |-docker
     |   |-mysql
     |   |   |-Dockerfile
