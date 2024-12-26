@@ -19,3 +19,6 @@ project/
     |-docker-compose.yml
     |-php.ini
 ```
+
+### 2.実行手順
+/*あとでかく*/
