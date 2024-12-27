@@ -12,6 +12,9 @@
         <li type="sqare">
             <a href="./carrier.php">高専キャリア</a>
         </li>
+        <li type="sqare">
+            <a href="./Takahashi_Hayate.php">My career</a>
+        </li>
     </ul>
 </body>
 </html>
