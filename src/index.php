@@ -12,6 +12,9 @@
         <li type="sqare">
             <a href="./carrier.php">高専キャリア</a>
         </li>
+        <li>
+            <a href="./shota.php">Ｒ６　（令和最新版）（改定版）最終更新８月３２日（改訂版）（更新版）(最終決定版).zip.zip</a>
+        </li>
     </ul>
 </body>
 </html>
